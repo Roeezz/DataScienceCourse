@@ -2,8 +2,8 @@ function Ytestprediction = predictknn (classifier, Xtest),
     Xtrain = classifier.Xtrain;
     Ytrain = classifier.Ytrain;
     k = classifier.k;
-    m = size(Xtrain)(1);
-    n = size(Xtest)(1);
+    m = size(Xtrain, 1);
+    n = size(Xtest, 1);
     
     Ytestprediction = zeros(n,1);
     dists = zeros(1,m);
