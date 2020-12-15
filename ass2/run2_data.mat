@@ -1,0 +1,15 @@
+# Created by Octave 5.2.0, Mon Dec 21 02:31:57 2020 GMT <unknown@ROEEZZ-MF-PC>
+# name: test_errors2
+# type: matrix
+# rows: 1
+# columns: 3
+ 0.43344709897610922 0.43003412969283278 0.42491467576791808
+
+
+# name: train_errors2
+# type: matrix
+# rows: 1
+# columns: 3
+ 0.24835646457268079 0.25054784514243972 0.24762600438276114
+
+
