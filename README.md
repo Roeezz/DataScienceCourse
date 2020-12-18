@@ -16,4 +16,4 @@ This course is an elective course for undergraduates at Ben-Gurion University, I
 ### The Assignments
 
 #### [Assignment 1](https://www.cs.bgu.ac.il/~inabd211/wiki.files/ex1.pdf)
-
+#### [Assignment 2](https://www.cs.bgu.ac.il/~inabd211/wiki.files/ex2[1].pdf)
