@@ -1,0 +1,4 @@
+function best_hyper_parameters = cross_validate(Xtrain,Ytrain)
+    Xtrain_divs = linspace(1,size(Xtrain,1),5);
+    for al
+    
