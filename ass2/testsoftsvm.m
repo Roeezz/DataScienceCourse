@@ -6,4 +6,3 @@ function error_on_test_predictions = testsoftsvm(w,Xtest,Ytest),
     endfor
     error_on_test_predictions = mean(Ytest != Ypredictions);
 endfunction
-

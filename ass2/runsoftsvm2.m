@@ -8,5 +8,3 @@ function [train_errors, test_errors] = runsoftsvm2(lambda, Xtrain, Ytrain, Xtest
         test_errors(i) = testsoftsvm(w, Xtest, Ytest);
     endfor
 endfunction
-
-save(run2_data.mat, train_errors, test_errors);
