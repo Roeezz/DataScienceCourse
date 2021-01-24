@@ -1,4 +1,4 @@
-function errors = Question2(X1train, X2train, X1test, X2test)
+function errors = Question2a(X1train, X2train, X1test, X2test)
 errors = zeros(10,1);
 for m = 1000:1000:10000
     disp(m);
