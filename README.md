@@ -11,9 +11,10 @@ The following topics will be covered:
 - Clustering methods such as k-means and spectral clustering
 - Model fitting methods such as Gaussian mixtures, maximum likelihood, and EM.
 
-This course is an elective course for undergraduates at Ben-Gurion University, Israel.
+This course is an elective course for bachelors/masters at Ben-Gurion University, Israel.
 
 ### The Assignments
 
 #### [Assignment 1](https://www.cs.bgu.ac.il/~inabd211/wiki.files/ex1.pdf)
-#### [Assignment 2](https://www.cs.bgu.ac.il/~inabd211/wiki.files/ex2[1].pdf)
+#### [Assignment 2](https://www.cs.bgu.ac.il/~inabd211/wiki.files/ex2.pdf)
+#### [Assignment 3](https://www.cs.bgu.ac.il/~inabd211/wiki.files/ex3.pdf)
