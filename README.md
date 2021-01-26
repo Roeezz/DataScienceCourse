@@ -13,7 +13,7 @@ The following topics will be covered:
 
 This course is an elective course for bachelors/masters at Ben-Gurion University, Israel.
 
-### The Assignments
+## The Assignments
 
 #### [Assignment 1](https://www.cs.bgu.ac.il/~inabd211/wiki.files/ex1.pdf)
 #### [Assignment 2](https://www.cs.bgu.ac.il/~inabd211/wiki.files/ex2.pdf)
